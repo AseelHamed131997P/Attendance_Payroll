@@ -1,0 +1,26 @@
+@media print {
+  .table {
+    width: 90% !important;
+  }
+
+  
+}
+
+@media print {
+  
+  @page {
+   
+  
+    margin: 0px;
+
+   
+    
+  }
+
+
+
+   
+  
+  
+
+}
